@@ -113,8 +113,7 @@ Toda la documentacion por parte del backend, los endpoints y las respuestas de s
 | <img src="https://media.licdn.com/dms/image/v2/D4D03AQEZ2kbM0mNixA/profile-displayphoto-shrink_100_100/B4DZRinSRMHcAY-/0/1736821253889?e=1743638400&v=beta&t=1Do47g7ll-Osi-6-sDhqr_pwYGXQ_V-2X_e_qPa40lI" height=60>| <img src="https://i.ib.co/ggk2bPw/a08c5e61-6f56-4b79-8052-23dc346ed4c8.jpg" height=60>|
 |:-:|:-:|
 | **Pablo Lopez Chiapero** |**Giselle Specht** |
-|<a href="https://github.com/Esplenio79"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/pablo-lopez-chiapero/"><a href="https://www.linkedin.com/in/pablo-lopez-chiapero/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</a>|<a href="https://github.com/G1s3"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/pablo-lopez-chiapero/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+|<a href="https://github.com/Esplenio79"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/pablo-lopez-chiapero/"><a href="https://www.linkedin.com/in/pablo-lopez-chiapero/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></a>|<a href="https://github.com/G1s3"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/pablo-lopez-chiapero/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 ## Construido con
