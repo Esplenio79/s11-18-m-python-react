@@ -105,6 +105,7 @@ Toda la documentacion por parte del backend, los endpoints y las respuestas de s
 |:-:|
 | **Evelyn Ariani Escalante**|
 |<a href="https://www.behance.net/evelynarianiUXer"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/><a href="https://www.linkedin.com/in/evelynarianiescalante/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://camo.githubusercontent.com/9f6439531e12e8474bec4d9461eeae25d4defb3cf1faeeeb5b64ce8ca2911217/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 
 </br>
 
