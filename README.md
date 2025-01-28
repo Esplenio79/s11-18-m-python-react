@@ -114,6 +114,7 @@ Toda la documentacion por parte del backend, los endpoints y las respuestas de s
 | **Pablo Lopez Chiapero** |**Giselle Specht** |
 |<a href="https://github.com/Esplenio79"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/pablo-lopez-chiapero/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>|<a href="https://github.com/G1s3"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/giselle-m-specht/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+<img width="200" src="https://media.licdn.com/dms/image/v2/D4D03AQEZ2kbM0mNixA/profile-displayphoto-shrink_200_200/B4DZRinSRMHcAc-/0/1736821253889?e=1743638400&amp;v=beta&amp;t=IfiQADJ9mpNp8Dd00iPSzO8sNxaOXsK7MAvH4y9gbLw" height="200" alt="Pablo Lopez Chiapero" id="ember3160" class="evi-image ember-view profile-photo-edit__preview">
 </br>
 
 ## Construido con
